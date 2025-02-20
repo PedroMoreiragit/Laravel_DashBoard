@@ -4,7 +4,9 @@
             <img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo">
         </a>
     </p>
+    <p align="center">
     <img src="https://github.com/user-attachments/assets/92eeff5e-63da-4936-8c39-cbdc0fd005c0" alt="Image">
+        </p>
 </div>
 
     
