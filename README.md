@@ -3,7 +3,7 @@
 ## Images 
 <br>
 
-![System Screen](C:/Users/Pedro/Herd/projeto-dashboard-adminlte/Image1.png)
+![System Screen](./projeto-dashboard-adminlte/Image1.png)
 
 
 <br>
